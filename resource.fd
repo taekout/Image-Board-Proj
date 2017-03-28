@@ -1,0 +1,18 @@
+!MS$FREEFORM
+! Microsoft Developer Studio generated include file.
+! Used by ImageBoard.rc
+!
+      integer, parameter :: IDD_ABOUTBOX                    = 100
+      integer, parameter :: IDC_POINTER                     = 104
+      integer, parameter :: IDC_POINTER_COPY                = 105
+      integer, parameter :: IDC_NODROP                      = 106
+      integer, parameter :: IDR_MAINFRAME                   = 128
+      integer, parameter :: IDR_IMAGEBTYPE                  = 129
+      integer, parameter :: IDC_LINE                        = 130
+      integer, parameter :: IDC_CIR                         = 131
+      integer, parameter :: IDC_RECT                        = 132
+      integer, parameter :: ID_LINE                         = 32771
+      integer, parameter :: ID_RECTANGLE                    = 32772
+      integer, parameter :: ID_CIRCLE                       = 32773
+      integer, parameter :: ID_CLEAR                        = 32774
+      integer, parameter :: ID_POINT                        = 32777
